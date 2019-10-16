@@ -1,0 +1,10 @@
+D:\Repo\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\Repo\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\Repo\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\Repo\TestApp\TestApp\obj\Debug\TestApp.pdb
