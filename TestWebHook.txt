@@ -1,3 +1,0 @@
-Testing webhook.Jenkins should build once file is saved in repo
-Test 2 - now we have branch name as parameter
-Stopped working
